@@ -14,7 +14,7 @@ Sin embargo, la comunidad demanda de manera creciente la definición de directri
 ### Indice
 
 #### Capítulo 1. Introducción
-- Qué son los Componente Web
+- Qué son los Componentes Web
 - Por Qué los Componentes Web
 - Por Qué Principios de Diseño para Componentes Web
 - El Paradigma de Componentes Web
@@ -26,7 +26,7 @@ Sin embargo, la comunidad demanda de manera creciente la definición de directri
 - Principio de Acoplamiento Débil
 - Principio de Abstracción
 - Principio de Reutilización
-- Principio de Diferiemiento de Estado
+- Principio de Diferimiento de Estado
 - Principio de Composición
 - Principio de Adaptación
 - Principio de Evolución
